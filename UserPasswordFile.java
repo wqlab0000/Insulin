@@ -31,7 +31,7 @@ class UserPasswordFile {
      * Returns whether password is correct.
      */
     
- //Then("^user has privilege to the profile if name and password are in the user index$")
+ //Then("^user has privilege to the profile$")
 
     public boolean check(int user, int password) {
         /*@ loop_invariant
