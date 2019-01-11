@@ -1,7 +1,7 @@
 //When("^user name and password are in the user index$")
 
 
-class SUserPasswordFile {
+class UserPasswordFile {
 
     /*@ public final model \locset footprint; 
       @ represents footprint =
